@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I’m Magento2 developer from India Gujarat. Experienced E-commerce Developer with a demonstrated history of working and strong knowledge with Magento2, Magento in the Information Technology and Services Industry. Skilled in PHP, jQuery, AJAX, javascript, Cascading Style Sheets (CSS), and HTML.
+
+## Social
+- Email: [vrajeshpatel4u@gmail.com](mailto:vrajeshpatel4u@gmail.com)
+- Twitter: [@vrajeshpatel4u](https://twitter.com/vrajeshpatel4u)
+- LinkedIn: [vrajeshpatel4u](https://www.linkedin.com/in/vrajeshpatel4u/)
+
 <!--
 **vrajeshpatel4u/vrajeshpatel4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
